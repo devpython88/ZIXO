@@ -1,0 +1,3 @@
+/mnt/hdd/CPP/tools/Zixo/build/CMakeFiles/game.dir
+/mnt/hdd/CPP/tools/Zixo/build/CMakeFiles/edit_cache.dir
+/mnt/hdd/CPP/tools/Zixo/build/CMakeFiles/rebuild_cache.dir
